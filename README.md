@@ -1,3 +1,7 @@
+# Firestore Timestamps
+This repo is an example for [Code.Build](https://code.build) used to show how to implement automatic Firestore Timestamps. It is currently setup for Cloud Functions, but you can uncomment the code for `serverTimestamp()` with Firestore Rules version.
+
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
